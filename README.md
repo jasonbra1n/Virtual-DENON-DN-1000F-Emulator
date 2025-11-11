@@ -1,2 +1,75 @@
-# Virtual-DENON-DN-1000F-Emulator
-A virtual recreation of the Denon DN-1000F CD player for modern web use. Powered by Web Audio API, this emulator brings back the look of a classic club setup with support for multiple audio formats.
+# 🎵 DN-1000F Web Emulator
+
+[![GitHub](https://badgen.net/badge/github/%23000000?style=for-the-badge&label=)](https://github.com/jasonbra1n/Denon-DN-1000F-Web-Emulator)
+
+A **modern web-based emulator** for the classic **Denon DN-1000F CD player**, bringing back its iconic functionality to your browser using **Web Audio API** and **JavaScript Media Tags**.
+
+---
+
+## 📌 Overview
+
+This project is a complete **web-based recreation of the Denon DN-1000F audio player**, allowing users to:
+- Load and play multiple audio files
+- Navigate tracks (previous/next)
+- Set cues and control playback precisely
+- Adjust pitch using a real-time slider
+- Display elapsed or remaining time
+- Show album art from embedded ID3 tags
+
+Perfect for **musicians, DJs, and audiophiles** who want to use the features of this legendary player in a modern web environment.
+
+---
+
+## 🚀 Features
+
+- ✅ Realistic Denon DN-1000F UI with custom CSS
+- 🎵 Web Audio API-based audio playback (supports MP3/WAV/FLAC)
+- 📌 Cue point setting and jump functionality
+- 🔁 Pitch adjustment from -10% to +10%
+- 🔄 Time mode toggle: elapsed vs. remaining time
+- 🖼️ Album art display using ID3 tags
+- 🎧 Full keyboard support (Spacebar for play/pause, Arrow keys, etc.)
+
+---
+
+## 💻 How To Use
+
+### 🔧 Requirements
+- A modern browser that supports **Web Audio API** and **JavaScript Media Tags**
+
+### ✅ Usage Instructions
+1. Open the project in your browser.
+2. Click "LOAD" to upload audio files (supports multiple formats).
+3. Select a file, then click "PLAY/PAUSE" or press `Space` to start playing.
+4. Use buttons or keyboard shortcuts to navigate through tracks and adjust settings.
+
+---
+
+## 📁 Folder Structure
+
+```
+DN-1000F-Web-Emulator/
+├── index.html          # Main HTML file
+└── README.md           # This file
+```
+
+---
+
+## ✅ Technologies Used
+
+- **HTML5** / **CSS3**
+- **JavaScript + Web Audio API**
+- **Media Tags Library (jsmediatags)**
+- **Responsive Design**
+
+---
+
+## 📌 Contributing
+
+If you'd like to improve this project or add features, feel free to open a PR! We welcome all contributions.
+
+---
+
+## ❤️ License
+
+This project is licensed under the [MIT License](LICENSE). Feel free to use it for personal or commercial purposes — just give credit where it's due!
